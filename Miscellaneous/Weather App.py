@@ -4,8 +4,8 @@ from datetime import date
 import urllib.parse
 
 
-accuweatherAPIKey = "0gBRfz2py0kc5Ouvkt7uJT4F5eAJHyqK"
-mapboxAccessToken = "pk.eyJ1IjoibmZzaWx2ZWlyYSIsImEiOiJjbDRtemZoZDcxNGhvM2dwYjBjbmI4czB5In0.IhnWZqJ7DPwTHlFVO4w6Hg"
+accuweatherAPIKey = "INSIRA SEU TOKEN DO ACCUWEATHER AQUI"
+mapboxAccessToken = "INSIRA SEU TOKEN DO MAPBOX AQUI"
 days_in_week = ['Domingo', 'Segunda-feira', 'Terça-feira', 'Quarta-feira', 'Quinta-feira', 'Sexta-feira', 'Sábado']
 
 
